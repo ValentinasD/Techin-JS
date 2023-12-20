@@ -319,18 +319,7 @@
  * console.log(uppercaseArray); // Output: ["APPLE", "BANANA", "CHERRY"]
  */
 
-// Intermediate
 
-// 1 Task
-/**
- * Removes specified elements from an array and replaces them with new elements.
- * @param {string[]} arr - The array to modify.
- * @param {number} start - The index at which to start changing the array.
- * @param {number} deleteCount - The number of elements to remove.
- * @param {string[]} elementsToAdd - The elements to add in place of the removed elements.
- * @returns {string[]} The modified array. before example: ["apple", "banana", "cherry"] after example: ["apple", "kiwi", "orange", "cherry"]
-*/
-// Hints to help solve the task:
 // 1. Use the splice method to remove elements from the array.
 // 2. The splice method takes parameters for the start index, delete count, and elements to add.
 // 3. Replace the specified elements with the new elements.
